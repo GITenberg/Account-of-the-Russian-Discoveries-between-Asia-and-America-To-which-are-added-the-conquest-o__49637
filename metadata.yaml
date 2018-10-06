@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Account of the Russian Discoveries between Asia and America
 
   To which are added, the conquest of Siberia, and the history
